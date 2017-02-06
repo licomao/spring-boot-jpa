@@ -1,0 +1,28 @@
+.btn_erp {
+    width: auto;
+    height: 33px;
+    color:white;
+    padding: 0px;
+    padding-right: 10px;
+}
+.btn_search{
+    background:url("images/erp/search.png")no-repeat;
+}
+.btn_save{
+     background:url("images/erp/save.png")no-repeat;
+ }
+.btn_remove{
+    background:url("images/erp/remove.png")no-repeat;
+}
+.btn_print{
+    background:url("images/erp/print.png")no-repeat;
+}
+.btn_next{
+    background:url("images/erp/next.png")no-repeat;
+}
+.btn_black{
+    background:url("images/erp/black.png")no-repeat;
+}
+.btn_refresh{
+    background:url("images/erp/refresh.png")no-repeat;
+}
